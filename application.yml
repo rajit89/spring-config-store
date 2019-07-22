@@ -1,4 +1,4 @@
-erver:
+server:
   port: 8191
 spring:
   cloud:
@@ -8,6 +8,3 @@ spring:
           uri: https://github.com/rajit89/spring-config-store
           search-paths:
            - '*service'
-
-
-
